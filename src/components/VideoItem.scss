@@ -1,0 +1,19 @@
+.video-item {
+  h4 {
+    line-height: 1rem;
+  }
+
+  img:hover {
+    border: 0;
+  }
+
+  p {
+    line-height: 1rem;
+  }
+
+  &:hover {
+    background-color: aliceblue;
+    border: 1px solid blue;
+    cursor: pointer;
+  }
+}

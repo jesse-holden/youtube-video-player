@@ -1,0 +1,18 @@
+.video-item h4 {
+  line-height: 1rem;
+}
+
+.video-item img:hover {
+  border: 0;
+}
+
+.video-item p {
+  line-height: 1rem;
+}
+
+.video-item:hover {
+  background-color: aliceblue;
+  border: 1px solid blue;
+  cursor: pointer;
+}
+/*# sourceMappingURL=VideoItem.css.map */
